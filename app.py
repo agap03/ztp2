@@ -1,3 +1,2 @@
-print('Hello')
-print(Hello, User')
-print(Hello, User')
+u = "imie"
+print(f'Hello, {u}')
